@@ -1,0 +1,22 @@
+{
+  "name": "playwright-saucedemo-automation",
+  "version": "1.0.0",
+  "description": "This repository contains a sample UI automation framework built with Playwright and TypeScript to test the Sauce Demo e-commerce website.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeHenzaA/playwright-saucedemo-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeHenzaA/playwright-saucedemo-automation/issues"
+  },
+  "homepage": "https://github.com/AdeHenzaA/playwright-saucedemo-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
